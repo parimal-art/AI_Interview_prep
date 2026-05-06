@@ -11,14 +11,7 @@ Built with a modern MERN-style architecture using React, Node.js, MongoDB, and G
 
 ![Project Architecture](./assets/architecture.png)
 
-You can create an `assets` folder in the root directory and upload images like:
 
-```bash
-assets/
- ├── banner.png
- ├── home-page.png
- └── interview-report.png
-```
 
 ---
 
